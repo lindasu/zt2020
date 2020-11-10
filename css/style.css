@@ -48,7 +48,14 @@ body {
 .iv-page081 {
 	background: #D8E6E7;
 }
-
+.navbar-fixed-bottom {
+	padding-top: 5px;
+}
+.navbar-fixed-bottom p {
+	color:#999;
+	text-align: center;
+	font-size: 12px;
+}
 /*
 a,
 a:focus,
