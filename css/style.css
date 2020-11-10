@@ -1,7 +1,55 @@
 @charset "utf-8";
 /* CSS Document */
+body {
+	min-height: 2000px;
+	padding-top: 70px;
+	padding-bottom: 70px;
+	position: relative;
+	height: 100%;
+	background: #333;
+	background-image: url(../img/dp1.png);
+	background-repeat: repeat;
+	background-size: 30%;
+	background-attachment:fixed;
+	background-position: center;
+}
+.iv-page001 {
+	color: aliceblue;
+}
+.iv-page001 h1,
+.iv-page001 p{
+	text-align: center;
+}
+.iv-page {
+	padding-top: 70px;
+	margin-top: 10px;
+}
+.iv-page010 {
+	background: #ffec99;
+}
+.iv-page020 {
+	background: #D8E6E7;
+}
+.iv-page030 {
+	background: #9DC3C1;
+}
+.iv-page040 {
+	background: #D8E6E7;
+}
+.iv-page050 {
+	background: #9DC3C1;
+}
+.iv-page060 {
+	background: #D8E6E7;
+}
+.iv-page070 {
+	background: #9DC3C1;
+}
+.iv-page081 {
+	background: #D8E6E7;
+}
 
-
+/*
 a,
 a:focus,
 a:hover {
@@ -19,12 +67,10 @@ body {
 }
 
 .mastfoot {
-	color: #999; /* IE8 proofing */
-	color: rgba(255,255,255,.5);
+	color: #999;
 	position: fixed;
 	bottom: 0;
 	left: 50%;
 	margin-left: -190px;
 	font-size: 12px;
-}
-
+} */
