@@ -20,10 +20,7 @@ body {
 .iv-page001 p{
 	text-align: center;
 }
-.iv-page {
-	padding-top: 70px;
-	margin-top: 10px;
-}
+
 .iv-page010 {
 	background: #ffec99;
 }
@@ -48,6 +45,14 @@ body {
 .iv-page081 {
 	background: #D8E6E7;
 }
+.iv-page {
+	padding: 70px 50px;
+	margin-top: 10px;
+	background-image: url(../img/dp2.png);
+	background-repeat: no-repeat;
+	background-size: 30%;
+	background-position: right bottom;
+}
 .navbar-fixed-bottom {
 	padding-top: 5px;
 }
@@ -61,6 +66,9 @@ body {
 }
 .navbar-fixed-bottom a:hover {
 	color: burlywood;
+}
+.page-header {
+	border-bottom: 1px solid #333;
 }
 /*
 a,
