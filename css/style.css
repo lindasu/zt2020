@@ -56,6 +56,12 @@ body {
 	text-align: center;
 	font-size: 12px;
 }
+.navbar-fixed-bottom a {
+	color: antiquewhite;
+}
+.navbar-fixed-bottom a:hover {
+	color: burlywood;
+}
 /*
 a,
 a:focus,
